@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Hydeout
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+url:              "https://maverickmac.github.io"
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -51,13 +51,13 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-disqus:
-  shortname:      hydeout
+#disqus:
+  #shortname:      hydeout
 
-google_analytics: UA-100461102-1
+#google_analytics: UA-100461102-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
-hydeout:
-  version:          4.2.0
-  repo:             https://github.com/fongandrew/hydeout
+#hydeout:
+#  version:          4.2.0
+#  repo:             https://github.com/fongandrew/hydeout
